@@ -1,0 +1,8 @@
+/home/karan/Projects/simplechain/obj/Debug/netstandard2.0/simplechain.csproj.CoreCompileInputs.cache
+/home/karan/Projects/simplechain/obj/Debug/netstandard2.0/simplechain.AssemblyInfoInputs.cache
+/home/karan/Projects/simplechain/obj/Debug/netstandard2.0/simplechain.AssemblyInfo.cs
+/home/karan/Projects/simplechain/bin/Debug/netstandard2.0/simplechain.deps.json
+/home/karan/Projects/simplechain/bin/Debug/netstandard2.0/simplechain.dll
+/home/karan/Projects/simplechain/bin/Debug/netstandard2.0/simplechain.pdb
+/home/karan/Projects/simplechain/obj/Debug/netstandard2.0/simplechain.dll
+/home/karan/Projects/simplechain/obj/Debug/netstandard2.0/simplechain.pdb
